@@ -1,0 +1,1922 @@
+[
+  {
+    "nume": "Abrud",
+    "slug": "abrud",
+    "municipiu": 0,
+    "judet": "AB"
+  },
+  {
+    "nume": "Adjud",
+    "slug": "adjud",
+    "municipiu": 1,
+    "judet": "VN"
+  },
+  {
+    "nume": "Agnita",
+    "slug": "agnita",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Aiud",
+    "slug": "aiud",
+    "municipiu": 1,
+    "judet": "AB"
+  },
+  {
+    "nume": "Alba Iulia",
+    "slug": "alba-iulia",
+    "municipiu": 1,
+    "judet": "AB"
+  },
+  {
+    "nume": "Alesd",
+    "slug": "alesd",
+    "municipiu": 0,
+    "judet": "BH"
+  },
+  {
+    "nume": "Alexandria",
+    "slug": "alexandria",
+    "municipiu": 1,
+    "judet": "TR"
+  },
+  {
+    "nume": "Amara",
+    "slug": "amara",
+    "municipiu": 0,
+    "judet": "IL"
+  },
+  {
+    "nume": "Anina",
+    "slug": "anina",
+    "municipiu": 0,
+    "judet": "CS"
+  },
+  {
+    "nume": "Aninoasa",
+    "slug": "aninoasa",
+    "municipiu": 0,
+    "judet": "HD"
+  },
+  {
+    "nume": "Arad",
+    "slug": "arad",
+    "municipiu": 1,
+    "judet": "AR"
+  },
+  {
+    "nume": "Ardud",
+    "slug": "ardud",
+    "municipiu": 0,
+    "judet": "SM"
+  },
+  {
+    "nume": "Avrig",
+    "slug": "avrig",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Azuga",
+    "slug": "azuga",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Babadag",
+    "slug": "babadag",
+    "municipiu": 0,
+    "judet": "TL"
+  },
+  {
+    "nume": "Babeni",
+    "slug": "babeni",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Bacau",
+    "slug": "bacau",
+    "municipiu": 1,
+    "judet": "BC"
+  },
+  {
+    "nume": "Baia de Arama",
+    "slug": "baia-de-arama",
+    "municipiu": 0,
+    "judet": "MH"
+  },
+  {
+    "nume": "Baia de Aries",
+    "slug": "baia-de-aries",
+    "municipiu": 0,
+    "judet": "AB"
+  },
+  {
+    "nume": "Baia Mare",
+    "slug": "baia-mare",
+    "municipiu": 1,
+    "judet": "MM"
+  },
+  {
+    "nume": "Baia Sprie",
+    "slug": "baia-sprie",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Baicoi",
+    "slug": "baicoi",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Baile Govora",
+    "slug": "baile-govora",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Baile Herculane",
+    "slug": "baile-herculane",
+    "municipiu": 0,
+    "judet": "CS"
+  },
+  {
+    "nume": "Baile Olanesti",
+    "slug": "baile-olanesti",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Bailesti",
+    "slug": "bailesti",
+    "municipiu": 1,
+    "judet": "DJ"
+  },
+  {
+    "nume": "Baile Tusnad",
+    "slug": "baile-tusnad",
+    "municipiu": 0,
+    "judet": "HR"
+  },
+  {
+    "nume": "Balan",
+    "slug": "balan",
+    "municipiu": 0,
+    "judet": "HR"
+  },
+  {
+    "nume": "Balcesti",
+    "slug": "balcesti",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Bals",
+    "slug": "bals",
+    "municipiu": 0,
+    "judet": "OT"
+  },
+  {
+    "nume": "Baneasa",
+    "slug": "baneasa",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Baraolt",
+    "slug": "baraolt",
+    "municipiu": 0,
+    "judet": "CV"
+  },
+  {
+    "nume": "Barlad",
+    "slug": "barlad",
+    "municipiu": 1,
+    "judet": "VS"
+  },
+  {
+    "nume": "Bechet",
+    "slug": "bechet",
+    "municipiu": 0,
+    "judet": "DJ"
+  },
+  {
+    "nume": "Beclean",
+    "slug": "beclean",
+    "municipiu": 0,
+    "judet": "BN"
+  },
+  {
+    "nume": "Beius",
+    "slug": "beius",
+    "municipiu": 1,
+    "judet": "BH"
+  },
+  {
+    "nume": "Berbesti",
+    "slug": "berbesti",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Beresti",
+    "slug": "beresti",
+    "municipiu": 0,
+    "judet": "GL"
+  },
+  {
+    "nume": "Bicaz",
+    "slug": "bicaz",
+    "municipiu": 0,
+    "judet": "NT"
+  },
+  {
+    "nume": "Bistrita",
+    "slug": "bistrita",
+    "municipiu": 1,
+    "judet": "BN"
+  },
+  {
+    "nume": "Blaj",
+    "slug": "blaj",
+    "municipiu": 1,
+    "judet": "AB"
+  },
+  {
+    "nume": "Bocsa",
+    "slug": "bocsa",
+    "municipiu": 0,
+    "judet": "CS"
+  },
+  {
+    "nume": "Boldesti-Scaeni",
+    "slug": "boldesti-scaeni",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Bolintin-Vale",
+    "slug": "bolintin-vale",
+    "municipiu": 0,
+    "judet": "GR"
+  },
+  {
+    "nume": "Borsa",
+    "slug": "borsa",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Borsec",
+    "slug": "borsec",
+    "municipiu": 0,
+    "judet": "HR"
+  },
+  {
+    "nume": "Botosani",
+    "slug": "botosani",
+    "municipiu": 1,
+    "judet": "BT"
+  },
+  {
+    "nume": "Brad",
+    "slug": "brad",
+    "municipiu": 1,
+    "judet": "HD"
+  },
+  {
+    "nume": "Bragadiru",
+    "slug": "bragadiru",
+    "municipiu": 0,
+    "judet": "IF"
+  },
+  {
+    "nume": "Braila",
+    "slug": "braila",
+    "municipiu": 1,
+    "judet": "BR"
+  },
+  {
+    "nume": "Brasov",
+    "slug": "brasov",
+    "municipiu": 1,
+    "judet": "BV"
+  },
+  {
+    "nume": "Breaza",
+    "slug": "breaza",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Brezoi",
+    "slug": "brezoi",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Brosteni",
+    "slug": "brosteni",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Bucecea",
+    "slug": "bucecea",
+    "municipiu": 0,
+    "judet": "BT"
+  },
+  {
+    "nume": "Bucuresti",
+    "slug": "bucuresti",
+    "municipiu": 1,
+    "judet": "-"
+  },
+  {
+    "nume": "Budesti",
+    "slug": "budesti",
+    "municipiu": 0,
+    "judet": "CL"
+  },
+  {
+    "nume": "Buftea",
+    "slug": "buftea",
+    "municipiu": 0,
+    "judet": "IF"
+  },
+  {
+    "nume": "Buhusi",
+    "slug": "buhusi",
+    "municipiu": 0,
+    "judet": "BC"
+  },
+  {
+    "nume": "Bumbesti-Jiu",
+    "slug": "bumbesti-jiu",
+    "municipiu": 0,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Busteni",
+    "slug": "busteni",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Buzau",
+    "slug": "buzau",
+    "municipiu": 1,
+    "judet": "BZ"
+  },
+  {
+    "nume": "Buzias",
+    "slug": "buzias",
+    "municipiu": 0,
+    "judet": "TM"
+  },
+  {
+    "nume": "Cajvana",
+    "slug": "cajvana",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Calafat",
+    "slug": "calafat",
+    "municipiu": 1,
+    "judet": "DJ"
+  },
+  {
+    "nume": "Calan",
+    "slug": "calan",
+    "municipiu": 0,
+    "judet": "HD"
+  },
+  {
+    "nume": "Calarasi",
+    "slug": "calarasi",
+    "municipiu": 1,
+    "judet": "CL"
+  },
+  {
+    "nume": "Calimanesti",
+    "slug": "calimanesti",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Campeni",
+    "slug": "campeni",
+    "municipiu": 0,
+    "judet": "AB"
+  },
+  {
+    "nume": "Campia Turzii",
+    "slug": "campia-turzii",
+    "municipiu": 1,
+    "judet": "CJ"
+  },
+  {
+    "nume": "Campina",
+    "slug": "campina",
+    "municipiu": 1,
+    "judet": "PH"
+  },
+  {
+    "nume": "Campulung",
+    "slug": "campulung",
+    "municipiu": 1,
+    "judet": "AG"
+  },
+  {
+    "nume": "Campulung Moldovenesc",
+    "slug": "campulung-moldovenesc",
+    "municipiu": 1,
+    "judet": "SV"
+  },
+  {
+    "nume": "Caracal",
+    "slug": "caracal",
+    "municipiu": 1,
+    "judet": "OT"
+  },
+  {
+    "nume": "Caransebes",
+    "slug": "caransebes",
+    "municipiu": 1,
+    "judet": "CS"
+  },
+  {
+    "nume": "Carei",
+    "slug": "carei",
+    "municipiu": 1,
+    "judet": "SM"
+  },
+  {
+    "nume": "Cavnic",
+    "slug": "cavnic",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Cazanesti",
+    "slug": "cazanesti",
+    "municipiu": 0,
+    "judet": "IL"
+  },
+  {
+    "nume": "Cehu Silvaniei",
+    "slug": "cehu-silvaniei",
+    "municipiu": 0,
+    "judet": "SJ"
+  },
+  {
+    "nume": "Cernavoda",
+    "slug": "cernavoda",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Chisineu-Cris",
+    "slug": "chisineu-cris",
+    "municipiu": 0,
+    "judet": "AR"
+  },
+  {
+    "nume": "Chitila",
+    "slug": "chitila",
+    "municipiu": 0,
+    "judet": "IF"
+  },
+  {
+    "nume": "Ciacova",
+    "slug": "ciacova",
+    "municipiu": 0,
+    "judet": "TM"
+  },
+  {
+    "nume": "Cisnadie",
+    "slug": "cisnadie",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Cluj-Napoca",
+    "slug": "cluj-napoca",
+    "municipiu": 1,
+    "judet": "CJ"
+  },
+  {
+    "nume": "Codlea",
+    "slug": "codlea",
+    "municipiu": 1,
+    "judet": "BV"
+  },
+  {
+    "nume": "Comanesti",
+    "slug": "comanesti",
+    "municipiu": 0,
+    "judet": "BC"
+  },
+  {
+    "nume": "Comarnic",
+    "slug": "comarnic",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Constanta",
+    "slug": "constanta",
+    "municipiu": 1,
+    "judet": "CT"
+  },
+  {
+    "nume": "Copsa Mica",
+    "slug": "copsa-mica",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Corabia",
+    "slug": "corabia",
+    "municipiu": 0,
+    "judet": "OT"
+  },
+  {
+    "nume": "Costesti",
+    "slug": "costesti",
+    "municipiu": 0,
+    "judet": "AG"
+  },
+  {
+    "nume": "Covasna",
+    "slug": "covasna",
+    "municipiu": 0,
+    "judet": "CV"
+  },
+  {
+    "nume": "Craiova",
+    "slug": "craiova",
+    "municipiu": 1,
+    "judet": "DJ"
+  },
+  {
+    "nume": "Cristuru Secuiesc",
+    "slug": "cristuru-secuiesc",
+    "municipiu": 0,
+    "judet": "HR"
+  },
+  {
+    "nume": "Cugir",
+    "slug": "cugir",
+    "municipiu": 0,
+    "judet": "AB"
+  },
+  {
+    "nume": "Curtea de Arges",
+    "slug": "curtea-de-arges",
+    "municipiu": 1,
+    "judet": "AG"
+  },
+  {
+    "nume": "Curtici",
+    "slug": "curtici",
+    "municipiu": 0,
+    "judet": "AR"
+  },
+  {
+    "nume": "Dabuleni",
+    "slug": "dabuleni",
+    "municipiu": 0,
+    "judet": "DJ"
+  },
+  {
+    "nume": "Darabani",
+    "slug": "darabani",
+    "municipiu": 0,
+    "judet": "BT"
+  },
+  {
+    "nume": "Darmanesti",
+    "slug": "darmanesti",
+    "municipiu": 0,
+    "judet": "BC"
+  },
+  {
+    "nume": "Dej",
+    "slug": "dej",
+    "municipiu": 1,
+    "judet": "CJ"
+  },
+  {
+    "nume": "Deta",
+    "slug": "deta",
+    "municipiu": 0,
+    "judet": "TM"
+  },
+  {
+    "nume": "Deva",
+    "slug": "deva",
+    "municipiu": 1,
+    "judet": "HD"
+  },
+  {
+    "nume": "Dolhasca",
+    "slug": "dolhasca",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Dorohoi",
+    "slug": "dorohoi",
+    "municipiu": 1,
+    "judet": "BT"
+  },
+  {
+    "nume": "Draganesti-Olt",
+    "slug": "draganesti-olt",
+    "municipiu": 0,
+    "judet": "OT"
+  },
+  {
+    "nume": "Dragasani",
+    "slug": "dragasani",
+    "municipiu": 1,
+    "judet": "VL"
+  },
+  {
+    "nume": "Dragomiresti",
+    "slug": "dragomiresti",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Drobeta-Turnu Severin",
+    "slug": "drobeta-turnu-severin",
+    "municipiu": 1,
+    "judet": "MH"
+  },
+  {
+    "nume": "Dumbraveni",
+    "slug": "dumbraveni",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Eforie",
+    "slug": "eforie",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Fagaras",
+    "slug": "fagaras",
+    "municipiu": 1,
+    "judet": "BV"
+  },
+  {
+    "nume": "Faget",
+    "slug": "faget",
+    "municipiu": 0,
+    "judet": "TM"
+  },
+  {
+    "nume": "Falticeni",
+    "slug": "falticeni",
+    "municipiu": 1,
+    "judet": "SV"
+  },
+  {
+    "nume": "Faurei",
+    "slug": "faurei",
+    "municipiu": 0,
+    "judet": "BR"
+  },
+  {
+    "nume": "Fetesti",
+    "slug": "fetesti",
+    "municipiu": 1,
+    "judet": "IL"
+  },
+  {
+    "nume": "Fieni",
+    "slug": "fieni",
+    "municipiu": 0,
+    "judet": "DB"
+  },
+  {
+    "nume": "Fierbinti-Targ",
+    "slug": "fierbinti-targ",
+    "municipiu": 0,
+    "judet": "IL"
+  },
+  {
+    "nume": "Filiasi",
+    "slug": "filiasi",
+    "municipiu": 0,
+    "judet": "DJ"
+  },
+  {
+    "nume": "Flamanzi",
+    "slug": "flamanzi",
+    "municipiu": 0,
+    "judet": "BT"
+  },
+  {
+    "nume": "Focsani",
+    "slug": "focsani",
+    "municipiu": 1,
+    "judet": "VN"
+  },
+  {
+    "nume": "Frasin",
+    "slug": "frasin",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Fundulea",
+    "slug": "fundulea",
+    "municipiu": 0,
+    "judet": "CL"
+  },
+  {
+    "nume": "Gaesti",
+    "slug": "gaesti",
+    "municipiu": 0,
+    "judet": "DB"
+  },
+  {
+    "nume": "Galati",
+    "slug": "galati",
+    "municipiu": 1,
+    "judet": "GL"
+  },
+  {
+    "nume": "Gataia",
+    "slug": "gataia",
+    "municipiu": 0,
+    "judet": "TM"
+  },
+  {
+    "nume": "Geoagiu",
+    "slug": "geoagiu",
+    "municipiu": 0,
+    "judet": "HD"
+  },
+  {
+    "nume": "Gheorgheni",
+    "slug": "gheorgheni",
+    "municipiu": 1,
+    "judet": "HR"
+  },
+  {
+    "nume": "Gherla",
+    "slug": "gherla",
+    "municipiu": 1,
+    "judet": "CJ"
+  },
+  {
+    "nume": "Ghimbav",
+    "slug": "ghimbav",
+    "municipiu": 0,
+    "judet": "BV"
+  },
+  {
+    "nume": "Giurgiu",
+    "slug": "giurgiu",
+    "municipiu": 1,
+    "judet": "GR"
+  },
+  {
+    "nume": "Gura Humorului",
+    "slug": "gura-humorului",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Harlau",
+    "slug": "harlau",
+    "municipiu": 0,
+    "judet": "IS"
+  },
+  {
+    "nume": "Harsova",
+    "slug": "harsova",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Hateg",
+    "slug": "hateg",
+    "municipiu": 0,
+    "judet": "HD"
+  },
+  {
+    "nume": "Horezu",
+    "slug": "horezu",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Huedin",
+    "slug": "huedin",
+    "municipiu": 0,
+    "judet": "CJ"
+  },
+  {
+    "nume": "Hunedoara",
+    "slug": "hunedoara",
+    "municipiu": 1,
+    "judet": "HD"
+  },
+  {
+    "nume": "Husi",
+    "slug": "husi",
+    "municipiu": 1,
+    "judet": "VS"
+  },
+  {
+    "nume": "Ianca",
+    "slug": "ianca",
+    "municipiu": 0,
+    "judet": "BR"
+  },
+  {
+    "nume": "Iasi",
+    "slug": "iasi",
+    "municipiu": 1,
+    "judet": "IS"
+  },
+  {
+    "nume": "Iernut",
+    "slug": "iernut",
+    "municipiu": 0,
+    "judet": "MS"
+  },
+  {
+    "nume": "Ineu",
+    "slug": "ineu",
+    "municipiu": 0,
+    "judet": "AR"
+  },
+  {
+    "nume": "Insuratei",
+    "slug": "insuratei",
+    "municipiu": 0,
+    "judet": "BR"
+  },
+  {
+    "nume": "Intorsura Buzaului",
+    "slug": "intorsura-buzaului",
+    "municipiu": 0,
+    "judet": "CV"
+  },
+  {
+    "nume": "Isaccea",
+    "slug": "isaccea",
+    "municipiu": 0,
+    "judet": "TL"
+  },
+  {
+    "nume": "Jibou",
+    "slug": "jibou",
+    "municipiu": 0,
+    "judet": "SJ"
+  },
+  {
+    "nume": "Jimbolia",
+    "slug": "jimbolia",
+    "municipiu": 0,
+    "judet": "TM"
+  },
+  {
+    "nume": "Lehliu Gara",
+    "slug": "lehliu-gara",
+    "municipiu": 0,
+    "judet": "CL"
+  },
+  {
+    "nume": "Lipova",
+    "slug": "lipova",
+    "municipiu": 0,
+    "judet": "AR"
+  },
+  {
+    "nume": "Liteni",
+    "slug": "liteni",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Livada",
+    "slug": "livada",
+    "municipiu": 0,
+    "judet": "SM"
+  },
+  {
+    "nume": "Ludus",
+    "slug": "ludus",
+    "municipiu": 0,
+    "judet": "MS"
+  },
+  {
+    "nume": "Lugoj",
+    "slug": "lugoj",
+    "municipiu": 1,
+    "judet": "TM"
+  },
+  {
+    "nume": "Lupeni",
+    "slug": "lupeni",
+    "municipiu": 1,
+    "judet": "HD"
+  },
+  {
+    "nume": "Macin",
+    "slug": "macin",
+    "municipiu": 0,
+    "judet": "TL"
+  },
+  {
+    "nume": "Magurele",
+    "slug": "magurele",
+    "municipiu": 0,
+    "judet": "IF"
+  },
+  {
+    "nume": "Mangalia",
+    "slug": "mangalia",
+    "municipiu": 1,
+    "judet": "CT"
+  },
+  {
+    "nume": "Marasesti",
+    "slug": "marasesti",
+    "municipiu": 0,
+    "judet": "VN"
+  },
+  {
+    "nume": "Marghita",
+    "slug": "marghita",
+    "municipiu": 0,
+    "judet": "BH"
+  },
+  {
+    "nume": "Medgidia",
+    "slug": "medgidia",
+    "municipiu": 1,
+    "judet": "CT"
+  },
+  {
+    "nume": "Medias",
+    "slug": "medias",
+    "municipiu": 1,
+    "judet": "SB"
+  },
+  {
+    "nume": "Miercurea Ciuc",
+    "slug": "miercurea-ciuc",
+    "municipiu": 1,
+    "judet": "HR"
+  },
+  {
+    "nume": "Miercurea Nirajului",
+    "slug": "miercurea-nirajului",
+    "municipiu": 0,
+    "judet": "MS"
+  },
+  {
+    "nume": "Miercurea Sibiului",
+    "slug": "miercurea-sibiului",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Mihailesti",
+    "slug": "mihailesti",
+    "municipiu": 0,
+    "judet": "GR"
+  },
+  {
+    "nume": "Milisauti",
+    "slug": "milisauti",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Mioveni",
+    "slug": "mioveni",
+    "municipiu": 0,
+    "judet": "AG"
+  },
+  {
+    "nume": "Mizil",
+    "slug": "mizil",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Moinesti",
+    "slug": "moinesti",
+    "municipiu": 1,
+    "judet": "BC"
+  },
+  {
+    "nume": "Moldova Noua",
+    "slug": "moldova-noua",
+    "municipiu": 0,
+    "judet": "CS"
+  },
+  {
+    "nume": "Moreni",
+    "slug": "moreni",
+    "municipiu": 1,
+    "judet": "DB"
+  },
+  {
+    "nume": "Motru",
+    "slug": "motru",
+    "municipiu": 1,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Murfatlar",
+    "slug": "murfatlar",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Murgeni",
+    "slug": "murgeni",
+    "municipiu": 0,
+    "judet": "VS"
+  },
+  {
+    "nume": "Nadlac",
+    "slug": "nadlac",
+    "municipiu": 0,
+    "judet": "AR"
+  },
+  {
+    "nume": "Nasaud",
+    "slug": "nasaud",
+    "municipiu": 0,
+    "judet": "BN"
+  },
+  {
+    "nume": "Navodari",
+    "slug": "navodari",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Negresti",
+    "slug": "negresti",
+    "municipiu": 0,
+    "judet": "VS"
+  },
+  {
+    "nume": "Negresti-Oas",
+    "slug": "negresti-oas",
+    "municipiu": 0,
+    "judet": "SM"
+  },
+  {
+    "nume": "Negru Voda",
+    "slug": "negru-voda",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Nehoiu",
+    "slug": "nehoiu",
+    "municipiu": 0,
+    "judet": "BZ"
+  },
+  {
+    "nume": "Novaci",
+    "slug": "novaci",
+    "municipiu": 0,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Nucet",
+    "slug": "nucet",
+    "municipiu": 0,
+    "judet": "BH"
+  },
+  {
+    "nume": "Ocna Mures",
+    "slug": "ocna-mures",
+    "municipiu": 0,
+    "judet": "AB"
+  },
+  {
+    "nume": "Ocna Sibiului",
+    "slug": "ocna-sibiului",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Ocnele Mari",
+    "slug": "ocnele-mari",
+    "municipiu": 0,
+    "judet": "VL"
+  },
+  {
+    "nume": "Odobesti",
+    "slug": "odobesti",
+    "municipiu": 0,
+    "judet": "VN"
+  },
+  {
+    "nume": "Odorheiu Secuiesc",
+    "slug": "odorheiu-secuiesc",
+    "municipiu": 1,
+    "judet": "HR"
+  },
+  {
+    "nume": "Oltenita",
+    "slug": "oltenita",
+    "municipiu": 1,
+    "judet": "CL"
+  },
+  {
+    "nume": "Onesti",
+    "slug": "onesti",
+    "municipiu": 1,
+    "judet": "BC"
+  },
+  {
+    "nume": "Oradea",
+    "slug": "oradea",
+    "municipiu": 1,
+    "judet": "BH"
+  },
+  {
+    "nume": "Orastie",
+    "slug": "orastie",
+    "municipiu": 1,
+    "judet": "HD"
+  },
+  {
+    "nume": "Oravita",
+    "slug": "oravita",
+    "municipiu": 0,
+    "judet": "CS"
+  },
+  {
+    "nume": "Orsova",
+    "slug": "orsova",
+    "municipiu": 1,
+    "judet": "MH"
+  },
+  {
+    "nume": "Otelu Rosu",
+    "slug": "otelu-rosu",
+    "municipiu": 0,
+    "judet": "CS"
+  },
+  {
+    "nume": "Otopeni",
+    "slug": "otopeni",
+    "municipiu": 0,
+    "judet": "IF"
+  },
+  {
+    "nume": "Ovidiu",
+    "slug": "ovidiu",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Panciu",
+    "slug": "panciu",
+    "municipiu": 0,
+    "judet": "VN"
+  },
+  {
+    "nume": "Pancota",
+    "slug": "pancota",
+    "municipiu": 0,
+    "judet": "AR"
+  },
+  {
+    "nume": "Pantelimon",
+    "slug": "pantelimon",
+    "municipiu": 0,
+    "judet": "IF"
+  },
+  {
+    "nume": "Pascani",
+    "slug": "pascani",
+    "municipiu": 1,
+    "judet": "IS"
+  },
+  {
+    "nume": "Patarlagele",
+    "slug": "patarlagele",
+    "municipiu": 0,
+    "judet": "BZ"
+  },
+  {
+    "nume": "Pecica",
+    "slug": "pecica",
+    "municipiu": 0,
+    "judet": "AR"
+  },
+  {
+    "nume": "Petrila",
+    "slug": "petrila",
+    "municipiu": 0,
+    "judet": "HD"
+  },
+  {
+    "nume": "Petrosani",
+    "slug": "petrosani",
+    "municipiu": 1,
+    "judet": "HD"
+  },
+  {
+    "nume": "Piatra-Olt",
+    "slug": "piatra-olt",
+    "municipiu": 0,
+    "judet": "OT"
+  },
+  {
+    "nume": "Piatra Neamt",
+    "slug": "piatra-neamt",
+    "municipiu": 1,
+    "judet": "NT"
+  },
+  {
+    "nume": "Pitesti",
+    "slug": "pitesti",
+    "municipiu": 1,
+    "judet": "AG"
+  },
+  {
+    "nume": "Ploiesti",
+    "slug": "ploiesti",
+    "municipiu": 1,
+    "judet": "PH"
+  },
+  {
+    "nume": "Plopeni",
+    "slug": "plopeni",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Podu Iloaiei",
+    "slug": "podu-iloaiei",
+    "municipiu": 0,
+    "judet": "IS"
+  },
+  {
+    "nume": "Pogoanele",
+    "slug": "pogoanele",
+    "municipiu": 0,
+    "judet": "BZ"
+  },
+  {
+    "nume": "Popesti-Leordeni",
+    "slug": "popesti-leordeni",
+    "municipiu": 0,
+    "judet": "IF"
+  },
+  {
+    "nume": "Potcoava",
+    "slug": "potcoava",
+    "municipiu": 0,
+    "judet": "OT"
+  },
+  {
+    "nume": "Predeal",
+    "slug": "predeal",
+    "municipiu": 0,
+    "judet": "BV"
+  },
+  {
+    "nume": "Pucioasa",
+    "slug": "pucioasa",
+    "municipiu": 0,
+    "judet": "DB"
+  },
+  {
+    "nume": "Racari",
+    "slug": "racari",
+    "municipiu": 0,
+    "judet": "DB"
+  },
+  {
+    "nume": "Radauti",
+    "slug": "radauti",
+    "municipiu": 1,
+    "judet": "SV"
+  },
+  {
+    "nume": "Ramnicu Sarat",
+    "slug": "ramnicu-sarat",
+    "municipiu": 1,
+    "judet": "BZ"
+  },
+  {
+    "nume": "Ramnicu Valcea",
+    "slug": "ramnicu-valcea",
+    "municipiu": 1,
+    "judet": "VL"
+  },
+  {
+    "nume": "Rasnov",
+    "slug": "rasnov",
+    "municipiu": 0,
+    "judet": "BV"
+  },
+  {
+    "nume": "Recas",
+    "slug": "recas",
+    "municipiu": 0,
+    "judet": "TM"
+  },
+  {
+    "nume": "Reghin",
+    "slug": "reghin",
+    "municipiu": 1,
+    "judet": "MS"
+  },
+  {
+    "nume": "Resita",
+    "slug": "resita",
+    "municipiu": 1,
+    "judet": "CS"
+  },
+  {
+    "nume": "Roman",
+    "slug": "roman",
+    "municipiu": 1,
+    "judet": "NT"
+  },
+  {
+    "nume": "Rosiorii de Vede",
+    "slug": "rosiorii-de-vede",
+    "municipiu": 1,
+    "judet": "TR"
+  },
+  {
+    "nume": "Rovinari",
+    "slug": "rovinari",
+    "municipiu": 0,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Roznov",
+    "slug": "roznov",
+    "municipiu": 0,
+    "judet": "NT"
+  },
+  {
+    "nume": "Rupea",
+    "slug": "rupea",
+    "municipiu": 0,
+    "judet": "BV"
+  },
+  {
+    "nume": "Sacele",
+    "slug": "sacele",
+    "municipiu": 1,
+    "judet": "BV"
+  },
+  {
+    "nume": "Sacueni",
+    "slug": "sacueni",
+    "municipiu": 0,
+    "judet": "BH"
+  },
+  {
+    "nume": "Salcea",
+    "slug": "salcea",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Saliste",
+    "slug": "saliste",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Salistea de Sus",
+    "slug": "salistea-de-sus",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Salonta",
+    "slug": "salonta",
+    "municipiu": 1,
+    "judet": "BH"
+  },
+  {
+    "nume": "Sangeorgiu de Padure",
+    "slug": "sangeorgiu-de-padure",
+    "municipiu": 0,
+    "judet": "MS"
+  },
+  {
+    "nume": "Sangeorz-Bai",
+    "slug": "sangeorz-bai",
+    "municipiu": 0,
+    "judet": "BN"
+  },
+  {
+    "nume": "Sannicolau Mare",
+    "slug": "sannicolau-mare",
+    "municipiu": 0,
+    "judet": "TM"
+  },
+  {
+    "nume": "Santana",
+    "slug": "santana",
+    "municipiu": 0,
+    "judet": "AR"
+  },
+  {
+    "nume": "Sarmasu",
+    "slug": "sarmasu",
+    "municipiu": 0,
+    "judet": "MS"
+  },
+  {
+    "nume": "Satu Mare",
+    "slug": "satu-mare",
+    "municipiu": 1,
+    "judet": "SM"
+  },
+  {
+    "nume": "Saveni",
+    "slug": "saveni",
+    "municipiu": 0,
+    "judet": "BT"
+  },
+  {
+    "nume": "Scornicesti",
+    "slug": "scornicesti",
+    "municipiu": 0,
+    "judet": "OT"
+  },
+  {
+    "nume": "Sebes",
+    "slug": "sebes",
+    "municipiu": 0,
+    "judet": "AB"
+  },
+  {
+    "nume": "Sebis",
+    "slug": "sebis",
+    "municipiu": 1,
+    "judet": "AR"
+  },
+  {
+    "nume": "Segarcea",
+    "slug": "segarcea",
+    "municipiu": 0,
+    "judet": "DJ"
+  },
+  {
+    "nume": "Seini",
+    "slug": "seini",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Sfantu Gheorghe",
+    "slug": "sfantu-gheorghe",
+    "municipiu": 1,
+    "judet": "CV"
+  },
+  {
+    "nume": "Sibiu",
+    "slug": "sibiu",
+    "municipiu": 1,
+    "judet": "SB"
+  },
+  {
+    "nume": "Sighetu Marmatiei",
+    "slug": "sighetu-marmatiei",
+    "municipiu": 1,
+    "judet": "MM"
+  },
+  {
+    "nume": "Sighisoara",
+    "slug": "sighisoara",
+    "municipiu": 1,
+    "judet": "MS"
+  },
+  {
+    "nume": "Simeria",
+    "slug": "simeria",
+    "municipiu": 0,
+    "judet": "HD"
+  },
+  {
+    "nume": "Sinaia",
+    "slug": "sinaia",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Siret",
+    "slug": "siret",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Slanic",
+    "slug": "slanic",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Slanic-Moldova",
+    "slug": "slanic-moldova",
+    "municipiu": 0,
+    "judet": "BC"
+  },
+  {
+    "nume": "Slatina",
+    "slug": "slatina",
+    "municipiu": 1,
+    "judet": "OT"
+  },
+  {
+    "nume": "Slobozia",
+    "slug": "slobozia",
+    "municipiu": 1,
+    "judet": "IL"
+  },
+  {
+    "nume": "Solca",
+    "slug": "solca",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Somcuta Mare",
+    "slug": "somcuta-mare",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Sovata",
+    "slug": "sovata",
+    "municipiu": 0,
+    "judet": "MS"
+  },
+  {
+    "nume": "Stefanesti",
+    "slug": "stefanesti",
+    "municipiu": 0,
+    "judet": "AG"
+  },
+  {
+    "nume": "Stefanesti",
+    "slug": "stefanesti",
+    "municipiu": 0,
+    "judet": "BT"
+  },
+  {
+    "nume": "Stei",
+    "slug": "stei",
+    "municipiu": 0,
+    "judet": "BH"
+  },
+  {
+    "nume": "Strehaia",
+    "slug": "strehaia",
+    "municipiu": 0,
+    "judet": "MH"
+  },
+  {
+    "nume": "Suceava",
+    "slug": "suceava",
+    "municipiu": 1,
+    "judet": "SV"
+  },
+  {
+    "nume": "Sulina",
+    "slug": "sulina",
+    "municipiu": 0,
+    "judet": "TL"
+  },
+  {
+    "nume": "Talmaciu",
+    "slug": "talmaciu",
+    "municipiu": 0,
+    "judet": "SB"
+  },
+  {
+    "nume": "Tandarei",
+    "slug": "tandarei",
+    "municipiu": 0,
+    "judet": "IL"
+  },
+  {
+    "nume": "Targoviste",
+    "slug": "targoviste",
+    "municipiu": 1,
+    "judet": "DB"
+  },
+  {
+    "nume": "Targu Bujor",
+    "slug": "targu-bujor",
+    "municipiu": 0,
+    "judet": "GL"
+  },
+  {
+    "nume": "Targu Carbunesti",
+    "slug": "targu-carbunesti",
+    "municipiu": 0,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Targu Frumos",
+    "slug": "targu-frumos",
+    "municipiu": 0,
+    "judet": "IS"
+  },
+  {
+    "nume": "Targu Jiu",
+    "slug": "targu-jiu",
+    "municipiu": 1,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Targu Lapus",
+    "slug": "targu-lapus",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Targu Mures",
+    "slug": "targu-mures",
+    "municipiu": 1,
+    "judet": "MS"
+  },
+  {
+    "nume": "Targu Neamt",
+    "slug": "targu-neamt",
+    "municipiu": 0,
+    "judet": "NT"
+  },
+  {
+    "nume": "Targu Ocna",
+    "slug": "targu-ocna",
+    "municipiu": 0,
+    "judet": "BC"
+  },
+  {
+    "nume": "Targu Secuiesc",
+    "slug": "targu-secuiesc",
+    "municipiu": 1,
+    "judet": "CV"
+  },
+  {
+    "nume": "Tarnaveni",
+    "slug": "tarnaveni",
+    "municipiu": 1,
+    "judet": "MS"
+  },
+  {
+    "nume": "Tasnad",
+    "slug": "tasnad",
+    "municipiu": 0,
+    "judet": "SM"
+  },
+  {
+    "nume": "Tautii-Magheraus",
+    "slug": "tautii-magheraus",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Techirghiol",
+    "slug": "techirghiol",
+    "municipiu": 0,
+    "judet": "CT"
+  },
+  {
+    "nume": "Tecuci",
+    "slug": "tecuci",
+    "municipiu": 1,
+    "judet": "GL"
+  },
+  {
+    "nume": "Teius",
+    "slug": "teius",
+    "municipiu": 0,
+    "judet": "AB"
+  },
+  {
+    "nume": "Ticleni",
+    "slug": "ticleni",
+    "municipiu": 0,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Timisoara",
+    "slug": "timisoara",
+    "municipiu": 1,
+    "judet": "TM"
+  },
+  {
+    "nume": "Tismana",
+    "slug": "tismana",
+    "municipiu": 0,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Titu",
+    "slug": "titu",
+    "municipiu": 0,
+    "judet": "DB"
+  },
+  {
+    "nume": "Toplita",
+    "slug": "toplita",
+    "municipiu": 1,
+    "judet": "HR"
+  },
+  {
+    "nume": "Topoloveni",
+    "slug": "topoloveni",
+    "municipiu": 0,
+    "judet": "AG"
+  },
+  {
+    "nume": "Tulcea",
+    "slug": "tulcea",
+    "municipiu": 1,
+    "judet": "TL"
+  },
+  {
+    "nume": "Turceni",
+    "slug": "turceni",
+    "municipiu": 0,
+    "judet": "GJ"
+  },
+  {
+    "nume": "Turda",
+    "slug": "turda",
+    "municipiu": 1,
+    "judet": "CJ"
+  },
+  {
+    "nume": "Turnu Magurele",
+    "slug": "turnu-magurele",
+    "municipiu": 1,
+    "judet": "TR"
+  },
+  {
+    "nume": "Ulmeni",
+    "slug": "ulmeni",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Ungheni",
+    "slug": "ungheni",
+    "municipiu": 0,
+    "judet": "MS"
+  },
+  {
+    "nume": "Uricani",
+    "slug": "uricani",
+    "municipiu": 0,
+    "judet": "HD"
+  },
+  {
+    "nume": "Urlati",
+    "slug": "urlati",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Urziceni",
+    "slug": "urziceni",
+    "municipiu": 1,
+    "judet": "IL"
+  },
+  {
+    "nume": "Valea lui Mihai",
+    "slug": "valea-lui-mihai",
+    "municipiu": 0,
+    "judet": "BH"
+  },
+  {
+    "nume": "Valenii de Munte",
+    "slug": "valenii-de-munte",
+    "municipiu": 0,
+    "judet": "PH"
+  },
+  {
+    "nume": "Vanju Mare",
+    "slug": "vanju-mare",
+    "municipiu": 0,
+    "judet": "MH"
+  },
+  {
+    "nume": "Vascau",
+    "slug": "vascau",
+    "municipiu": 0,
+    "judet": "BH"
+  },
+  {
+    "nume": "Vaslui",
+    "slug": "vaslui",
+    "municipiu": 1,
+    "judet": "VS"
+  },
+  {
+    "nume": "Vatra Dornei",
+    "slug": "vatra-dornei",
+    "municipiu": 1,
+    "judet": "SV"
+  },
+  {
+    "nume": "Vicovu de sus",
+    "slug": "vicovu-de-sus",
+    "municipiu": 0,
+    "judet": "SV"
+  },
+  {
+    "nume": "Victoria",
+    "slug": "victoria",
+    "municipiu": 0,
+    "judet": "BV"
+  },
+  {
+    "nume": "Videle",
+    "slug": "videle",
+    "municipiu": 0,
+    "judet": "TR"
+  },
+  {
+    "nume": "Viseu de Sus",
+    "slug": "viseu-de-sus",
+    "municipiu": 0,
+    "judet": "MM"
+  },
+  {
+    "nume": "Vlahita",
+    "slug": "vlahita",
+    "municipiu": 0,
+    "judet": "HR"
+  },
+  {
+    "nume": "Voluntari",
+    "slug": "voluntari",
+    "municipiu": 0,
+    "judet": "IF"
+  },
+  {
+    "nume": "Vulcan",
+    "slug": "vulcan",
+    "municipiu": 1,
+    "judet": "HD"
+  },
+  {
+    "nume": "Zalau",
+    "slug": "zalau",
+    "municipiu": 1,
+    "judet": "SJ"
+  },
+  {
+    "nume": "Zarnesti",
+    "slug": "zarnesti",
+    "municipiu": 0,
+    "judet": "BV"
+  },
+  {
+    "nume": "Zimnicea",
+    "slug": "zimnicea",
+    "municipiu": 1,
+    "judet": "TR"
+  },
+  {
+    "nume": "Zlatna",
+    "slug": "zlatna",
+    "municipiu": 0,
+    "judet": "AB"
+  },
+  {
+    "nume": "Simleu Silvaniei",
+    "slug": "simleu-silvaniei",
+    "municipiu": 0,
+    "judet": "SJ"
+  }
+]
