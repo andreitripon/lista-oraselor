@@ -1,4 +1,6 @@
 # Lista alfabetică a orașelor din România (inclusiv municipii) 
+[Lista in format json](https://andreitripon.github.io/lista-oraselor/dist/json/lista-oraselor.json) 
+[Lista in format csv](https://andreitripon.github.io/lista-oraselor/dist/csv/lista-oraselor.csv) 
 
 | Nume | Slug | Municipiu | Judet |
 | ------ | ------ | ------ | ------ |
